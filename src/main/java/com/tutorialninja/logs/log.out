@@ -1,0 +1,276 @@
+2023-05-15 23:05:109 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (b5b9c6308649178b2a07cf06de58c332)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-15 23:05:70 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (b5b9c6308649178b2a07cf06de58c332)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (b5b9c6308649178b2a07cf06de58c332)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-15 23:05:324 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (67a6ad5517a8f53e2c2e3a350191c596)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-15 23:05:646 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (67a6ad5517a8f53e2c2e3a350191c596)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (67a6ad5517a8f53e2c2e3a350191c596)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-15 23:05:587 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (1d08f94fe5b8b3e48b39bf7498514e1c)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-15 23:05:811 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (1d08f94fe5b8b3e48b39bf7498514e1c)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (1d08f94fe5b8b3e48b39bf7498514e1c)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-15 23:05:423 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (9c1b851d5d029a8d78e84acc3dad4739)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-15 23:05:619 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (9c1b851d5d029a8d78e84acc3dad4739)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (9c1b851d5d029a8d78e84acc3dad4739)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-15 23:05:910 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (a294b88647d34c3454efb9cb009fb7b4)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-15 23:05:220 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (a294b88647d34c3454efb9cb009fb7b4)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (a294b88647d34c3454efb9cb009fb7b4)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-15 23:05:621 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (09489995dbe00fe32780b48e141225cc)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-15 23:05:824 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (09489995dbe00fe32780b48e141225cc)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (09489995dbe00fe32780b48e141225cc)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-15 23:05:990 INFO  HomePage :64 - mousehoverOn laptop And NotebooksLink And click : [[ChromeDriver: chrome on WINDOWS (f3a4aec8fe8d8df1fdc7199f5e0188b0)] -> link text: Laptops & Notebooks]
+2023-05-15 23:05:207 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (f3a4aec8fe8d8df1fdc7199f5e0188b0)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (f3a4aec8fe8d8df1fdc7199f5e0188b0)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 00:05:471 INFO  HomePage :69 - mouse hover on component link and click: [[ChromeDriver: chrome on WINDOWS (993bdf1470dbf819409f4ac233d441da)] -> link text: Components]
+2023-05-16 00:05:730 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (993bdf1470dbf819409f4ac233d441da)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (993bdf1470dbf819409f4ac233d441da)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 00:05:571 INFO  ComponentsPage :18 - Get Components Text : [[ChromeDriver: chrome on WINDOWS (993bdf1470dbf819409f4ac233d441da)] -> xpath: //h2[contains(text(),'Components')]]
+2023-05-16 00:05:132 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (1342e8000cc3202590182bcda0d88687)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 00:05:452 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (1342e8000cc3202590182bcda0d88687)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (1342e8000cc3202590182bcda0d88687)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 00:05:525 INFO  HomePage :64 - mousehoverOn laptop And NotebooksLink And click : [[ChromeDriver: chrome on WINDOWS (ec8d7df48edf101d4db4d869da79ca3b)] -> link text: Laptops & Notebooks]
+2023-05-16 00:05:784 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (ec8d7df48edf101d4db4d869da79ca3b)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (ec8d7df48edf101d4db4d869da79ca3b)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 00:05:88 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (13aa54e6729d99517e2e2e433a81ee29)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 00:05:345 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (13aa54e6729d99517e2e2e433a81ee29)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (13aa54e6729d99517e2e2e433a81ee29)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 00:05:436 INFO  HomePage :64 - mousehoverOn laptop And NotebooksLink And click : [[ChromeDriver: chrome on WINDOWS (1a795b040c2b9e940807d7da43bf20f7)] -> link text: Laptops & Notebooks]
+2023-05-16 00:05:614 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (1a795b040c2b9e940807d7da43bf20f7)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (1a795b040c2b9e940807d7da43bf20f7)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 00:05:913 INFO  HomePage :69 - mouse hover on component link and click: [[ChromeDriver: chrome on WINDOWS (54a4dd085afd072b3c802a7cb908aa9a)] -> link text: Components]
+2023-05-16 00:05:81 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (54a4dd085afd072b3c802a7cb908aa9a)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (54a4dd085afd072b3c802a7cb908aa9a)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 00:05:936 INFO  ComponentsPage :18 - Get Components Text : [[ChromeDriver: chrome on WINDOWS (54a4dd085afd072b3c802a7cb908aa9a)] -> xpath: //h2[contains(text(),'Components')]]
+2023-05-16 00:05:20 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (3761e3a34e6b33fd9706479221a41ee3)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 00:05:262 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (3761e3a34e6b33fd9706479221a41ee3)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 00:05:462 INFO  HomePage :45 - Select Menu : []
+2023-05-16 00:05:843 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (69a805765e3f9c306a744ad2af2819dc)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 00:05:35 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (69a805765e3f9c306a744ad2af2819dc)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 00:05:243 INFO  HomePage :45 - Select Menu : []
+2023-05-16 01:05:619 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (9d321518334146ff09c26a9e23d24544)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 01:05:812 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (9d321518334146ff09c26a9e23d24544)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (9d321518334146ff09c26a9e23d24544)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 01:05:534 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (e256cca7ab67146126b2b37b3277b741)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 01:05:727 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (e256cca7ab67146126b2b37b3277b741)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (e256cca7ab67146126b2b37b3277b741)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 01:05:22 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 01:05:80 INFO  DesktopPage :43 - Getting Product List 
+2023-05-16 01:05:110 INFO  DesktopPage :43 - Getting Product List 
+2023-05-16 01:05:332 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (31234e64ff4679dec906723f8a4e806f)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 01:05:536 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (31234e64ff4679dec906723f8a4e806f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (31234e64ff4679dec906723f8a4e806f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 01:05:572 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 01:05:627 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 01:05:788 INFO  HomePage :58 - mget Product Text: Proxy element for: DefaultElementLocator 'By.xpath: //div[@id = 'content']//h1'
+2023-05-16 01:05:586 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (23742fafe15ebf2e2d58b806f93c0949)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 01:05:811 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (23742fafe15ebf2e2d58b806f93c0949)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (23742fafe15ebf2e2d58b806f93c0949)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 01:05:547 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 01:05:553 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 01:05:587 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (23742fafe15ebf2e2d58b806f93c0949)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 01:05:699 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (23742fafe15ebf2e2d58b806f93c0949)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 01:05:412 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 01:05:720 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (23742fafe15ebf2e2d58b806f93c0949)] -> xpath: //button[@id='button-cart']]
+2023-05-16 01:05:125 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (23742fafe15ebf2e2d58b806f93c0949)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 01:05:214 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (23742fafe15ebf2e2d58b806f93c0949)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 01:05:613 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 01:05:822 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 01:05:500 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 01:05:945 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 01:05:998 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 01:05:55 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 01:05:666 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 01:05:917 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> xpath: //button[@id='button-cart']]
+2023-05-16 01:05:712 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 01:05:752 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 01:05:826 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 01:05:862 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (e4eb1bdd5cc9ebfe9c4883ca37f8da98)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 01:05:556 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 01:05:753 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 01:05:894 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 01:05:464 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 01:05:507 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 01:05:570 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 01:05:127 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 01:05:377 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> xpath: //button[@id='button-cart']]
+2023-05-16 01:05:162 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 01:05:208 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 01:05:975 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 01:05:16 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (b8384e2845a21c1db55247bd8bafaf5f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 01:05:578 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (593238e98257efe9a37ae03b4bf33852)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 01:05:161 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (593238e98257efe9a37ae03b4bf33852)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (593238e98257efe9a37ae03b4bf33852)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 01:05:928 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 01:05:390 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 01:05:451 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (593238e98257efe9a37ae03b4bf33852)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 01:05:555 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (593238e98257efe9a37ae03b4bf33852)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 01:05:205 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 01:05:498 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (593238e98257efe9a37ae03b4bf33852)] -> xpath: //button[@id='button-cart']]
+2023-05-16 01:05:376 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (593238e98257efe9a37ae03b4bf33852)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 01:05:434 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (593238e98257efe9a37ae03b4bf33852)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 01:05:123 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (6267810464c1d96404696eea83c7a598)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 01:05:460 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (6267810464c1d96404696eea83c7a598)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (6267810464c1d96404696eea83c7a598)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 01:05:798 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 01:05:143 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 01:05:211 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (6267810464c1d96404696eea83c7a598)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 01:05:361 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (6267810464c1d96404696eea83c7a598)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 01:05:366 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 01:05:690 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (6267810464c1d96404696eea83c7a598)] -> xpath: //button[@id='button-cart']]
+2023-05-16 01:05:912 INFO  HomePage :91 - get Product Add success message: Proxy element for: DefaultElementLocator 'By.cssSelector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible'
+2023-05-16 01:05:411 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 01:05:665 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 01:05:97 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 01:05:459 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 01:05:556 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 01:05:604 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 01:05:606 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 01:05:909 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> xpath: //button[@id='button-cart']]
+2023-05-16 01:05:557 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 01:05:664 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 01:05:58 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 01:05:94 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (119bb38528cf68142583065d47b5df58)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 02:05:356 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:589 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:213 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:88 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:129 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:198 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:821 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:59 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:856 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:910 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:683 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:721 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (76cab3542742bb529f7b09c9c4da13c4)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 02:05:588 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:786 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:474 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:513 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:571 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:616 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:244 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:478 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:324 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:378 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:191 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:224 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (1d6bf75b3beb8cecac608bbee8110793)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 02:05:290 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:215 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:246 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:11 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:53 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:126 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:572 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:865 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:707 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:756 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:763 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:797 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (5d81965f9003916c9c50b244e49113cb)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 02:05:42 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:345 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:97 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:796 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:868 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:910 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:684 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:919 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:685 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:732 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:535 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:570 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (3ed61501e41a10ca4d32358c56e29b2d)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 02:05:731 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (c6ba589c23a7cfa3ef075af5d5dc3af8)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:108 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (c6ba589c23a7cfa3ef075af5d5dc3af8)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (c6ba589c23a7cfa3ef075af5d5dc3af8)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:128 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:398 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:452 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (c6ba589c23a7cfa3ef075af5d5dc3af8)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:548 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (c6ba589c23a7cfa3ef075af5d5dc3af8)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:266 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:495 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (c6ba589c23a7cfa3ef075af5d5dc3af8)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:447 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (c6ba589c23a7cfa3ef075af5d5dc3af8)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:535 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (c6ba589c23a7cfa3ef075af5d5dc3af8)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:324 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:756 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:425 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:728 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:764 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:826 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:627 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:847 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:666 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:739 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:818 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:898 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (04fb24658e3f9482f3f5c405a52f10a8)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 02:05:941 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:390 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:570 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:844 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:878 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:963 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:618 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:328 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:849 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:18 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:638 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:700 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (f8283ee936b531092348847a54cc691f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 02:05:740 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (31e10d0942da0870d13478d514ac34f6)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:48 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (31e10d0942da0870d13478d514ac34f6)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (31e10d0942da0870d13478d514ac34f6)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:855 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:285 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:342 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (31e10d0942da0870d13478d514ac34f6)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:410 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (31e10d0942da0870d13478d514ac34f6)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:357 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:994 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (31e10d0942da0870d13478d514ac34f6)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:314 INFO  HomePage :91 - get Product Add success message: Proxy element for: DefaultElementLocator 'By.cssSelector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible'
+2023-05-16 02:05:346 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:597 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:984 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:731 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:775 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:951 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:585 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:150 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:37 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:121 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:257 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:306 INFO  ShoppingCartPage :57 - Getting model [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[3]]
+2023-05-16 02:05:350 INFO  ShoppingCartPage :62 - Getting total [[ChromeDriver: chrome on WINDOWS (a6c0e3325d590f65c588af48497dc08f)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[6]]
+2023-05-16 02:05:320 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:499 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:613 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:838 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:895 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:764 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:05 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:448 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:999 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:66 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:853 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:905 INFO  ShoppingCartPage :52 - Getting delivery date [[ChromeDriver: chrome on WINDOWS (c12bad891f07c19e49edf1b1c2eb4e5b)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/small[1]]
+2023-05-16 02:05:669 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (1a378bfa217f9ffe7dc6b823927e1fa4)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:35 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (1a378bfa217f9ffe7dc6b823927e1fa4)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (1a378bfa217f9ffe7dc6b823927e1fa4)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:117 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:783 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:869 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (1a378bfa217f9ffe7dc6b823927e1fa4)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:369 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (1a378bfa217f9ffe7dc6b823927e1fa4)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:333 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:283 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (1a378bfa217f9ffe7dc6b823927e1fa4)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:779 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (1a378bfa217f9ffe7dc6b823927e1fa4)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:850 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (1a378bfa217f9ffe7dc6b823927e1fa4)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:783 INFO  ShoppingCartPage :47 - Getting Product name [[ChromeDriver: chrome on WINDOWS (1a378bfa217f9ffe7dc6b823927e1fa4)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:989 INFO  ShoppingCartPage :57 - Getting model Proxy element for: DefaultElementLocator 'By.xpath: //small[normalize-space()='Delivery Date:2011-04-22']'
+2023-05-16 02:05:603 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (54b936cd8753a770bad8bf2a6183e09f)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:974 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (54b936cd8753a770bad8bf2a6183e09f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (54b936cd8753a770bad8bf2a6183e09f)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:303 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:122 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:186 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (54b936cd8753a770bad8bf2a6183e09f)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:248 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (54b936cd8753a770bad8bf2a6183e09f)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:867 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:547 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:791 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:910 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:880 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:928 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:985 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:224 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:810 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:394 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:441 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:338 INFO  ShoppingCartPage :52 - Getting Product name [[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:378 INFO  ShoppingCartPage :62 - Getting model [[ChromeDriver: chrome on WINDOWS (379b1e3604956c2fa7d26d17f8bd837b)] -> xpath: //small[normalize-space()='Delivery Date:2011-04-22']]
+2023-05-16 02:05:737 INFO  HomePage :59 - Mouse hover on desktops Link And click : [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //a[normalize-space()='Desktops']]
+2023-05-16 02:05:134 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 02:05:208 INFO  DesktopPage :63 - Select the filter 
+2023-05-16 02:05:37 INFO  DesktopPage :57 - Select the product By Name filter 
+2023-05-16 02:05:84 INFO  HomePage :58 - mget Product Text: [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //div[@id = 'content']//h1]
+2023-05-16 02:05:177 INFO  HomePage :63 - select delivery date: [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //div[@class = 'input-group date']//button]
+2023-05-16 02:05:421 INFO  HomePage :101 - enter Quantity: By.cssSelector: #input-quantity
+2023-05-16 02:05:241 INFO  HomePage :86 - click on Add to cart Button: [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //button[@id='button-cart']]
+2023-05-16 02:05:758 INFO  HomePage :91 - get Product Add success message: [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> css selector: body:nth-child(2) div.container:nth-child(4) > div.alert.alert-success.alert-dismissible]
+2023-05-16 02:05:880 INFO  HomePage :96 - click on shopping cart link Message: [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //a[contains(text(),'shopping cart')]]
+2023-05-16 02:05:756 INFO  ShoppingCartPage :52 - Getting Product name [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]
+2023-05-16 02:05:794 INFO  ShoppingCartPage :62 - Getting model [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //td[normalize-space()='Product 21']]
+2023-05-16 02:05:830 INFO  ShoppingCartPage :67 - Getting total [[ChromeDriver: chrome on WINDOWS (50f1728c8e2122c95a6aebcca9335e3d)] -> xpath: //body[1]/div[2]/div[1]/div[1]/form[1]/div[1]/table[1]/tbody[1]/tr[1]/td[5]]
+2023-05-16 03:05:308 INFO  HomePage :64 - mousehoverOn laptop And NotebooksLink And click : [[ChromeDriver: chrome on WINDOWS (d22bce4bdaafd5f91ac88e7b0daa6df6)] -> link text: Laptops & Notebooks]
+2023-05-16 03:05:558 INFO  HomePage :45 - Select Menu : [[[ChromeDriver: chrome on WINDOWS (d22bce4bdaafd5f91ac88e7b0daa6df6)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*], [[ChromeDriver: chrome on WINDOWS (d22bce4bdaafd5f91ac88e7b0daa6df6)] -> xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*]]
+2023-05-16 03:05:587 INFO  LaptopsAndNotebooksPage :53 - Select the filter [[ChromeDriver: chrome on WINDOWS (d22bce4bdaafd5f91ac88e7b0daa6df6)] -> id: input-sort]
+2023-05-16 03:05:731 INFO  LaptopsAndNotebooksPage :47 - Getting Product price 
+2023-05-16 03:05:830 INFO  LaptopsAndNotebooksPage :47 - Getting Product price 
