@@ -24,7 +24,7 @@ public class ShoppingCartPage extends Utility {
     @FindBy(xpath = "//td[normalize-space()='Product 21']")
     WebElement model;
     @CacheLookup
-    @FindBy(xpath = "//body[1]/div[2]/div[1]/div[1]/form[1]/div[1]/table[1]/tbody[1]/tr[1]/td[5]")
+    @FindBy(xpath = "//tbody//tr//td[6]")
     WebElement total;
 
     @CacheLookup

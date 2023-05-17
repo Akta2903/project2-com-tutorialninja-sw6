@@ -25,7 +25,7 @@ public class DesktopsSteps {
     @Then("^Products should be arranged in Descending order$")
     public void productsShouldBeArrangedInDescendingOrder() {
         ArrayList<String> originalProductsName = new DesktopPage().getProductsNameList();
-        Collections.reverse(originalProductsName);
+        Collections.sort(originalProductsName,Collections.reverseOrder());
         ArrayList<String> afterSortByZToAProductsName = new DesktopPage().getProductsNameList();
         Assert.assertEquals(originalProductsName,afterSortByZToAProductsName);
 
